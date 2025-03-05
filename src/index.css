@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(214, 183, 188) !important;
+   
+}
+
+
+
+.main{
+  text-align: center;
+}
+  
+input{
+  height: 33px;
+  width: 300px;
+  background-color: rgb(173, 120, 148);
+  border: 2px solid rgb(108, 12, 75);
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+
+#done{
+color: rgb(95, 95, 236);
+font-size: x-large;
+margin-right: 10px;
+}
+
+#delete{
+  color: rgb(202, 62, 62);
+  font-size: x-large;
+  margin-right: 5px;
+  }
+
+#delete:hover{
+    color: rgb(193, 7, 7);
+    }
+
+ #done:hover{
+      color: rgb(16, 16, 171);
+      } 
+
+.container{
+  width: 600px !important;
+  border: 2px solid rgb(5, 1, 1);
+  border-radius: 5px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  
+}
+
+
+#mainbtn{
+  height: 40px;
+  width: 100px;
+  border: 2px solid rgb(93, 28, 79);
+  border-radius: 5px;
+  background-color: rgb(125, 68, 121);
+}
